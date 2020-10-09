@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diceware Generator</string>
+    <string name="generate_passphrase">Generate Passphrase</string>
+    <string name="number_of_words">Number of words:</string>
+    <string name="your_passphrase">Your Passphrase:</string>
+    <string name="add_random_character">Add random character</string>
+</resources>
